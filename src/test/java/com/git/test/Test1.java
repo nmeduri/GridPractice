@@ -29,6 +29,7 @@ public class Test1 {
 	  System.out.println("Added New Code by EST");
 	  System.out.println("Added New Code By PST");
 	  
-	  System.out.println("Merge Conflicts");
+	  System.out.println("Merge Conflicts1");
+	  System.out.println("Merge Conflicts2");
   }
 }
