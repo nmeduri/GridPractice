@@ -28,5 +28,7 @@ public class Test1 {
 	  System.out.println("Test3");
 	  System.out.println("Added New Code by EST");
 	  System.out.println("Added New Code By PST");
+	  
+	  System.out.println("Merge Conflicts");
   }
 }
